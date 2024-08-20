@@ -6,6 +6,8 @@
 
 When setting up a test Active Directory with a high volume of users, generating realistic demo accounts can be quite complex. A basic PowerShell script can create numerous accounts quickly, but ensuring these accounts have authentic names, valid addresses, and correctly formatted postal codes is another challenge. To address this, you'll need two key components: input files with realistic data such as names and addresses, and a script capable of using this data to generate user accounts. This repository provides both of these essentials to streamline the process.
 
+<img width="728" alt="AD-users" src="https://github.com/user-attachments/assets/e693bb39-5227-4879-aeab-971ca456bff6">
+
 # Purpose
 
 The script is designed to generate a customizable number of user accounts with the following attributes:
