@@ -1,0 +1,13 @@
+City,Street,State,PostalCode,Country
+Cape Town,45 Oranje Street,Western Cape,8001,South Africa
+Sandton,128 Rivonia Boulevard,Gauteng,2196,South Africa
+Johannesburg,76 Glenhove Road,Gauteng,2193,South Africa
+Pretoria,34 Zambezi Drive,Gauteng,0182,South Africa
+New York, 123 Broadway, NY, 10001, USA
+Los Angeles, 456 Sunset Blvd, CA, 90028, USA
+Chicago, 789 Wacker Drive, IL, 60601, USA
+Houston, 321 Main Street, TX, 77002, USA
+London, 221B Baker Street, Greater London, NW1 6XE, United Kingdom
+Manchester, 10 Market Street, Greater Manchester, M1 1PP, United Kingdom
+Birmingham, 50 Broad Street, West Midlands, B1 2HF, United Kingdom
+Edinburgh, 1 Royal Mile, City of Edinburgh, EH1 1RE, United Kingdom
