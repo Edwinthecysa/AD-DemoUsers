@@ -1,0 +1,50 @@
+City,Street,State,PostalCode,Country
+Cape Town,45 Oranje Street,Western Cape,8001,SA
+Sandton,128 Rivonia Boulevard,Gauteng,2196,SA
+Johannesburg,76 Glenhove Road,Gauteng,2193,SA
+Pretoria,34 Zambezi Drive,Gauteng,0182,SA
+New York,123 Broadway,NY,10001,US
+Los Angeles,456 Sunset Blvd,CA,90028,US
+Chicago,789 Wacker Drive,IL,60601,US
+Houston,321 Main Street,TX,77002,US
+London,221B Baker Street,Greater London,NW16XE,GB
+Manchester,10 Market Street,Greater Manchester,M11PP,GB
+Birmingham,50 Broad Street,West Midlands,B12HF,GB
+Edinburgh,1 Royal Mile,City of Edinburgh,EH11RE,GB
+New York, 123 Broadway, NY, 10001, US
+Denver, 1506 Sycamore Dr, CO, 80201, US
+El Paso, 1607 Poplar Ct, TX, 79901, US
+Detroit, 1708 Dogwood Way, MI, 48201, US
+Washington, 1809 Magnolia Ave, DC, 20001, US
+Boston, 1901 Juniper St, MA, 02101, US
+Memphis, 2002 Maple Ln, TN, 38101, US
+Nashville, 2103 Oakwood Dr, TN, 37201, US
+Baltimore, 2204 Pine St, MD, 21201, US
+Oklahoma City, 2305 Cedar Ave, OK, 73101, US
+Las Vegas, 2406 Elm Ct, NV, 89101, US
+Louisville, 2507 Ash Way, KY, 40201, US
+Milwaukee, 2608 Birch Blvd, WI, 53201, US
+Albuquerque, 2709 Walnut St, NM, 87101, US
+Tucson, 2810 Sycamore Dr, AZ, 85701, US
+Fresno, 2911 Fir Ave, CA, 93701, US
+Sacramento, 3012 Maple St, CA, 95801, US
+Kansas City, 3113 Oakwood Ln, MO, 64101, US
+Mesa, 3214 Pine Ct, AZ, 85201, US
+Virginia Beach, 3315 Cedar Dr, VA, 23450, US
+Atlanta, 3416 Spruce Ave, GA, 30301, US
+San Francisco, 35557 Birch Ct, CA, 94108, US
+Columbus, 35668 Oakwood Dr, OH, 43208, US
+Indianapolis, 35779 Cedar St, IN, 46208, US
+Fort Worth, 35880 Juniper Ct, TX, 76108, US
+Charlotte, 35991 Maple Ave, NC, 28208, US
+Seattle, 36002 Pine Ln, WA, 98108, US
+Denver, 36113 Cedar Ct, CO, 80208, US
+El Paso, 36224 Sycamore Ave, TX, 79908, US
+Detroit, 36335 Maple Blvd, MI, 48208, US
+Washington, 36446 Birch Dr, DC, 20008, US
+Cape Town, 15 Long Street, Western Cape, 8001, SA
+Greenstone Hill, 781 Greenstone Avenue, Gauteng, 1609, SA
+Kyalami, 792 Kyalami Road, Gauteng, 1684, SA
+Rivonia, 803 Rivonia Road, Gauteng, 2128, SA
+Fourways, 814 Fourways Boulevard, Gauteng, 2055, SA
+Bryanston, 825 Bryanston Drive, Gauteng, 2191, SA
